@@ -2,8 +2,12 @@
 <head>
 </head>
 <body>
+<<<<<<< HEAD
+master
+=======
 new_feature added second time
-adding final time
+
+>>>>>>> new_feature
 
 </body>
 </html>
